@@ -1,13 +1,8 @@
-# Python
 .venv/
 __pycache__/
 *.pyc
-
-# Secrets
 .env
 creds.json
-
-# OS/IDE
 .DS_Store
 .idea/
 .vscode/
